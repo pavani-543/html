@@ -1,0 +1,13 @@
+<html>
+<head>
+<scripttype="text/javascript"language="javascript">
+document.write("magneq computers");
+</script>
+</head>
+<body>
+ <p style='color':red;font-family:tahoma;font-size:40
+    px>oops your browser not supporting javascript,do change
+    the script settings from tools menu and try again....!</p>
+   </noscript>
+   </body>
+   </html>
